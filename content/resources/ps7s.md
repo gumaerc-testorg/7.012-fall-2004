@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Solutions for assigned homework problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-012-introduction-to-biology-fall-2004/572c975b50d2fab56e5d6068faa88ae3_ps7s.pdf
+file: /media/courses/7-012-introduction-to-biology-fall-2004/572c975b50d2fab56e5d6068faa88ae3_ps7s.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ps7s.pdf
 uid: 572c975b-50d2-fab5-6e5d-6068faa88ae3

@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-012-introduction-to-biology-fall-2004/bd1a5780edfa9caacff684e0a2ae6489_lec09.jpg
+file: /media/courses/7-012-introduction-to-biology-fall-2004/bd1a5780edfa9caacff684e0a2ae6489_lec09.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec09.jpg
 uid: bd1a5780-edfa-9caa-cff6-84e0a2ae6489

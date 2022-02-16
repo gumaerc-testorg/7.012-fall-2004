@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-012-introduction-to-biology-fall-2004/7eda25d532b61126a6738321a125552e_ps7q.pdf
+file: /media/courses/7-012-introduction-to-biology-fall-2004/7eda25d532b61126a6738321a125552e_ps7q.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ps7q.pdf
 uid: 7eda25d5-32b6-1126-a673-8321a125552e

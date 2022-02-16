@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-012-introduction-to-biology-fall-2004/4c6e249549606c6bae202f7cbc289582_ARjSihLe1K8.pdf
+file: /media/courses/7-012-introduction-to-biology-fall-2004/4c6e249549606c6bae202f7cbc289582_ARjSihLe1K8.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 4c6e2495-4960-6c6b-ae20-2f7cbc289582
