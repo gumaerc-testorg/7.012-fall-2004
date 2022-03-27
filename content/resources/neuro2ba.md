@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 862c3488-d99e-bf2a-f92e-5bb0d0196225
 resourcetype: Document
 title: neuro2ba.pdf
 uid: e389926f-eabb-a80f-91f0-f3bbc3d304c8

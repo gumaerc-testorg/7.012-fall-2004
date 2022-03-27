@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 862c3488-d99e-bf2a-f92e-5bb0d0196225
 resourcetype: Document
 title: evol2.pdf
 uid: 3bc8dcaa-a26b-e497-6f85-70e69324429b

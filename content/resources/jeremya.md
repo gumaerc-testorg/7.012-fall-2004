@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 862c3488-d99e-bf2a-f92e-5bb0d0196225
 resourcetype: Document
 title: jeremya.pdf
 uid: bef4d0c2-c2ce-ce8e-a61c-7effabe295a0

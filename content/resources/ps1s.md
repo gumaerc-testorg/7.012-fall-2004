@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 14091ba0-c182-8670-1272-8d452019f102
 resourcetype: Document
 title: ps1s.pdf
 uid: 096372c4-043d-12f7-5a1c-79e0d9417fba

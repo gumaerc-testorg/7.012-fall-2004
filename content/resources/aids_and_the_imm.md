@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0a384b66-3356-fa9a-4798-29c5b2208686
 resourcetype: Document
 title: aids_and_the_imm.pdf
 uid: e7ac2ec4-418c-0bd7-b310-301e9f2bfcbc

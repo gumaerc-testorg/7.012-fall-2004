@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 14091ba0-c182-8670-1272-8d452019f102
 resourcetype: Document
 title: ps5q.pdf
 uid: f52af2ff-6c4a-cf5e-290e-8a388f079345

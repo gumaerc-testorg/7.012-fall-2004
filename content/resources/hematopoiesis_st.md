@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0a384b66-3356-fa9a-4798-29c5b2208686
 resourcetype: Document
 title: hematopoiesis_st.pdf
 uid: 6128031b-9a59-b3f2-0fd1-cc8ece5b6bf0
