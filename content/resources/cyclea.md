@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Solution for the recitation problem.
-file: /media/courses/7-012-introduction-to-biology-fall-2004/b7d7c5bad764c589b210e28632312430_cyclea.pdf
+file: /courses/7-012-introduction-to-biology-fall-2004/b7d7c5bad764c589b210e28632312430_cyclea.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: cyclea.pdf
 uid: b7d7c5ba-d764-c589-b210-e28632312430
 ---
+Solution for the recitation problem.

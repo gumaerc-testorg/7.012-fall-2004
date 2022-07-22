@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-012-introduction-to-biology-fall-2004/51a09b32ed1c5af396931fce6e1c49a7_blBcCjIY7Sg.vtt
+file: /courses/7-012-introduction-to-biology-fall-2004/51a09b32ed1c5af396931fce6e1c49a7_blBcCjIY7Sg.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

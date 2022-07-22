@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-012-introduction-to-biology-fall-2004/ebda1131d71422d2b6a60f17ad89409b_00LNy0Q_i6c.pdf
+file: /courses/7-012-introduction-to-biology-fall-2004/ebda1131d71422d2b6a60f17ad89409b_00LNy0Q_i6c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

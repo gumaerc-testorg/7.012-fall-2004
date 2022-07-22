@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Solution for the recitation problem.
-file: /media/courses/7-012-introduction-to-biology-fall-2004/f0cbb1ce55e4376dba4cd520099db6bb_protseca.pdf
+file: /courses/7-012-introduction-to-biology-fall-2004/f0cbb1ce55e4376dba4cd520099db6bb_protseca.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: protseca.pdf
 uid: f0cbb1ce-55e4-376d-ba4c-d520099db6bb
 ---
+Solution for the recitation problem.
