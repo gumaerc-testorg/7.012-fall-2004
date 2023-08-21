@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -256,7 +257,7 @@ Virology/Tumor Viruses
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 26, pp. 501-507  
-Viruses ([PDF]({{< baseurl >}}/resources/viruses_2))
+Viruses ({{% resource_link 77d878d4-639d-5f53-0464-a80b68fc5084 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +272,7 @@ Immunology 2
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 46  
-Humoral Immunology ([PDF]({{< baseurl >}}/resources/humoral_immunolo))
+Humoral Immunology ({{% resource_link 98fd70aa-4bb3-2eca-fdab-c6e0ac15a241 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +285,7 @@ AIDS
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 26.2, pp. 507-516  
-AIDS ([PDF]({{< baseurl >}}/resources/aids_and_the_imm))
+AIDS ({{% resource_link e7ac2ec4-418c-0bd7-b310-301e9f2bfcbc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +361,7 @@ Stem Cells/Cloning 2
 {{< tdopen >}}
 pp. 346, 406-407, 364-367  
 Essay on p. 826  
-Growth and Differentiation, a Case of Hematopoiesis ([PDF]({{< baseurl >}}/resources/hematopoiesis_st))
+Growth and Differentiation, a Case of Hematopoiesis ({{% resource_link 6128031b-9a59-b3f2-0fd1-cc8ece5b6bf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
