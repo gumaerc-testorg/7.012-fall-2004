@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: ''
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -11,7 +12,7 @@ videos:
   content:
   - 97dce34e-d88d-aef1-56b1-5bb897c10d80
   - d88d6aa7-4a65-6d4d-94b0-eadbc9b3a5a1
-  - 3ace9ba7-ad1f-9b34-ae33-3ee34f5dc7ee
+  - 1bfd30ce-13e2-46c4-91c0-270902aaef46
   - 829149f0-2e43-a19d-70a9-13bbadf6d36b
   - 01df0445-a5e8-fdce-88f6-523869f66b8d
   - 95d3b672-b527-8f3b-556e-1c320a5da577
@@ -46,7 +47,4 @@ videos:
   - e8f94140-f022-2726-2968-2bf28dc183dc
   website: 7-012-introduction-to-biology-fall-2004
 ---
-
-
 {{< video-gallery "53e57148-b5fd-ab33-2e2a-4c75bf512f31" >}}
-
