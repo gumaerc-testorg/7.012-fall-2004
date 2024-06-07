@@ -3,6 +3,7 @@ content_type: resource
 description: Solution for the recitation problem. Recitation problems cover material
   discussed in the corresponding lecture sessions.
 file: /courses/7-012-introduction-to-biology-fall-2004/e55808c18f2b4770718074cd4a784491_aidsa.pdf
+file_size: 54051
 file_type: application/pdf
 learning_resource_types:
 - Recitations

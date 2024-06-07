@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/7-012-introduction-to-biology-fall-2004/f52af2ff6c4acf5e290e8a388f079345_ps5q.pdf
+file_size: 87470
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

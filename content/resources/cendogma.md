@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution for the recitation problem.
 file: /courses/7-012-introduction-to-biology-fall-2004/1f955edbfdc9c9bf587af864765f7799_cendogma.pdf
+file_size: 57985
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for the recitation quiz problems.
 file: /courses/7-012-introduction-to-biology-fall-2004/bef4d0c2c2cece8ea61c7effabe295a0_jeremya.pdf
+file_size: 45830
 file_type: application/pdf
 learning_resource_types:
 - Recitations
