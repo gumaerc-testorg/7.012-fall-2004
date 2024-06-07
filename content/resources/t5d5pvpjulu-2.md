@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-012-introduction-to-biology-fall-2004/f2bc92cd9b1652bfa33cc38a0d837f9b_T5d5PvPjUlU.vtt
+file_size: 57580
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

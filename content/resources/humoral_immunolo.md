@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout giving detailed background on a topic covered in the course.
 file: /courses/7-012-introduction-to-biology-fall-2004/98fd70aa4bb32ecafdabc6e0ac15a241_humoral_immunolo.pdf
+file_size: 161328
 file_type: application/pdf
 learning_resource_types:
 - Readings

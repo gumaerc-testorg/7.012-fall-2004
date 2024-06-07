@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution for the recitation problem.
 file: /courses/7-012-introduction-to-biology-fall-2004/292050d335d0beb1af95efe1309fbf47_can3a.pdf
+file_size: 242866
 file_type: application/pdf
 learning_resource_types:
 - Recitations
