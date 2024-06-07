@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-012-introduction-to-biology-fall-2004/438fb16f97aeba7e649f3811cf0b85fb_lec27.jpg
+file_size: 2187
 file_type: image/jpeg
 image_metadata:
   caption: ''

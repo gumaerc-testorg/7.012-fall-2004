@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for assigned homework problems.
 file: /courses/7-012-introduction-to-biology-fall-2004/bf2490976db226cf75734e6d79937174_ps4s.pdf
+file_size: 85151
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
