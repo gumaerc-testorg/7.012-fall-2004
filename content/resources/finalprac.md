@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice exam.
-file: /courses/7-012-introduction-to-biology-fall-2004/f84ec151cffb9ce2ce092361a691e914_finalprac.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/f84ec151cffb9ce2ce092361a691e914_finalprac.pdf
 file_size: 578093
 file_type: application/pdf
 learning_resource_types:

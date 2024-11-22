@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-012-introduction-to-biology-fall-2004/4c425638c970bf144ec27c9762bbffcb_R6AtInDjsrM.srt
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/4c425638c970bf144ec27c9762bbffcb_R6AtInDjsrM.srt
 file_size: 67152
 file_type: application/x-subrip
 learning_resource_types: []

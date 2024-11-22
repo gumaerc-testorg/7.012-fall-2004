@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /courses/7-012-introduction-to-biology-fall-2004/9254e9cc19409cc04e8343a05fd7c0c3_10_13_handout.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/9254e9cc19409cc04e8343a05fd7c0c3_10_13_handout.pdf
 file_size: 658441
 file_type: application/pdf
 learning_resource_types: []

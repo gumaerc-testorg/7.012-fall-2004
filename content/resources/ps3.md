@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/7-012-introduction-to-biology-fall-2004/cfdb53b2ef1196408702bbc78e71d632_ps3.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/cfdb53b2ef1196408702bbc78e71d632_ps3.pdf
 file_size: 68234
 file_type: application/pdf
 learning_resource_types:
