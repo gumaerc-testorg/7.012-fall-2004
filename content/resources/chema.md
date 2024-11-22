@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for the recitation problems.
-file: /courses/7-012-introduction-to-biology-fall-2004/cdc66a13f821d3954743a8be8558d9da_chema.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/cdc66a13f821d3954743a8be8558d9da_chema.pdf
 file_size: 79101
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout containing notes from the lecture.
-file: /courses/7-012-introduction-to-biology-fall-2004/98fdd5975f947254273eb1d7cd1000c3_lecture5notes.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/98fdd5975f947254273eb1d7cd1000c3_lecture5notes.pdf
 file_size: 190106
 file_type: application/pdf
 learning_resource_types: []
