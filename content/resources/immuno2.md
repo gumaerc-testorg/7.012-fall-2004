@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation problems cover material discussed in the corresponding lecture
   sessions.
-file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/d821240d331da94f2d90c3eedf2b573a_immuno2.pdf
+file: /courses/7-012-introduction-to-biology-fall-2004/d821240d331da94f2d90c3eedf2b573a_immuno2.pdf
 file_size: 123897
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution for the recitation problem.
-file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/e389926feabba80f91f0f3bbc3d304c8_neuro2ba.pdf
+file: /courses/7-012-introduction-to-biology-fall-2004/e389926feabba80f91f0f3bbc3d304c8_neuro2ba.pdf
 file_size: 40896
 file_type: application/pdf
 learning_resource_types:
