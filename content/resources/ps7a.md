@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for assigned homework problems.
-file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/e00dc23fdba63635dfe5a05b48a8159c_ps7a.pdf
+file: /courses/7-012-introduction-to-biology-fall-2004/e00dc23fdba63635dfe5a05b48a8159c_ps7a.pdf
 file_size: 97352
 file_type: application/pdf
 learning_resource_types:
