@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz problems with solutions provided.
-file: /courses/7-012-introduction-to-biology-fall-2004/7b23d7cd3037eea9e8af6cc07fc80676_quiz3a.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/7b23d7cd3037eea9e8af6cc07fc80676_quiz3a.pdf
 file_size: 185343
 file_type: application/pdf
 learning_resource_types:

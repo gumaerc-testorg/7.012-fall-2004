@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation problems cover material discussed in the corresponding lecture
   sessions.
-file: /courses/7-012-introduction-to-biology-fall-2004/b9c62084841c5b1f61b6fca73d2e5472_scrclone.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/b9c62084841c5b1f61b6fca73d2e5472_scrclone.pdf
 file_size: 52977
 file_type: application/pdf
 learning_resource_types:
