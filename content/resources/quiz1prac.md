@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice quiz.
-file: /courses/7-012-introduction-to-biology-fall-2004/4d4399578803614743677242376ab2d8_quiz1prac.pdf
+file: /ol-ocw-studio-app/courses/7-012-introduction-to-biology-fall-2004/4d4399578803614743677242376ab2d8_quiz1prac.pdf
 file_size: 188680
 file_type: application/pdf
 learning_resource_types:
