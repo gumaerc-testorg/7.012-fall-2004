@@ -8,7 +8,7 @@ title: Readings
 uid: 0a384b66-3356-fa9a-4798-29c5b2208686
 ---
 
-Reading assignments include scientific articles, class handouts, online resources, and sections from the required text. Assignments for this course also used to include several readings from the [MIT Biology Hypertextbook](http://web.mit.edu/esgbio/www), but these have been removed as that site is no longer active. At this time there are no plans to re-present the materials.
+Reading assignments include scientific articles, class handouts, online resources, and sections from the required text. Assignments for this course also used to include several readings from the {{% resource_link "fc774cd5-7f9a-466e-9ea0-69e29310c54c" "MIT Biology Hypertextbook" %}}, but these have been removed as that site is no longer active. At this time there are no plans to re-present the materials.
 
 Freeman, Scott. _Biological Science_. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 9780130819239.
 
@@ -373,7 +373,7 @@ Growth and Differentiation, a Case of Hematopoiesis ({{% resource_link 6128031b-
 Molecular Medicine 1
 {{< tdclose >}}
 {{< tdopen >}}
-NCI [Gleevec Article](http://www.cancer.gov/research/progress/discovery/gleevec)  
+NCI {{% resource_link "a344e4f0-171a-4f9d-ab5f-7765e474a483" "Gleevec Article" %}}  
 pp. 330
 {{< tdclose >}}
 
@@ -386,10 +386,10 @@ pp. 330
 Molecular Evolution
 {{< tdclose >}}
 {{< tdopen >}}
-[Genetics and Geneology, Why Y](http://www.ramsdale.org/dna13.htm)?  
-[The Family Lemba](http://www.pbs.org/wgbh/nova/israel/familylemba.html) (PBS Nova)  
-[The Family Cohanim](http://www.pbs.org/wgbh/nova/israel/familycohanim.html) (PBS Nova)  
-[Did Thomas Jefferson Father Slave Children](http://www.pbs.org/wgbh/nova/israel/familyjefferson.html)? (PBS Nova)
+{{% resource_link "e7573a9f-b6aa-43a3-a263-ea389c71b652" "Genetics and Geneology, Why Y" %}}?  
+{{% resource_link "5f96bc57-4162-4275-9c99-1d28f716b0f2" "The Family Lemba" %}} (PBS Nova)  
+{{% resource_link "9a727e19-2fb2-464b-b3db-53b17eeef2d0" "The Family Cohanim" %}} (PBS Nova)  
+{{% resource_link "1a753d0a-9c89-4a15-bbb5-c6630e3f37ed" "Did Thomas Jefferson Father Slave Children" %}}? (PBS Nova)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -403,7 +403,7 @@ Molecular Medicine 2
 {{< tdopen >}}
 Essay: pp. 782-783  
 The Cholesterol Quartet  
-[Familial Hypercholesterolemia](http://www.emedicine.com/med/topic1072.htm)
+{{% resource_link "44c9d030-1508-488f-8b74-2518f5afbca5" "Familial Hypercholesterolemia" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
