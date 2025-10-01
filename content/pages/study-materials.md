@@ -98,7 +98,7 @@ Problem Set 8 ({{% resource_link 8ccdb69f-3431-f153-f02b-772556164b65 "PDF" %}})
 
 {{< tableclose >}}
 
- [Star Biochem visualization tools](http://web.mit.edu/star/biochem/)
+ {{% resource_link "55a34883-52c6-40cd-809d-cb99cdfd554a" "Star Biochem visualization tools" %}}
 
 Lecture Handouts
 ----------------
